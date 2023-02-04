@@ -1,8 +1,8 @@
 Things to do after fresh windows install
 also a few useful files for peace/equalizer apo
 
-TO install:
-equalizer APO (6xx file in onedrive)
+TO install:  
+equalizer APO (6xx file in onedrive)  
 M$ office
 android studio (?)
 wsl2 for windows (follow instructions on MS site)
