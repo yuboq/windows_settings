@@ -1,0 +1,18 @@
+www.google.com##div[class*="explore-main"]
+www.google.com##div[class*="exp-outline"]
+google.*##div[id^="eob"]
+google.*##.exp-outline
+
+! 6/1/2020 https://www.google.com
+www.google.com##.gb_na.gb_F
+
+! 6/5/2020 https://www.google.ca
+www.google.ca##.gb_na.gb_F
+
+! 6/5/2020 https://calendar.google.com
+calendar.google.com##.gb_Hd
+calendar.google.com##.gb_na.gb_F
+
+! 6/6/2020 https://translate.google.com
+translate.google.com##.gb_Hd
+translate.google.com##.gb_na.gb_F
