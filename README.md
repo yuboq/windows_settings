@@ -16,6 +16,7 @@ davinci resolve (and the C++ redistribute stuff) (workspace -> fullscreen, 60fps
 OBS (requires C++ redistribute stuff)  
 drawing tablet drivers  
 discord (?)  
+Equalizer APO + Peace GUI. Headphone presets: https://www.reddit.com/r/oratory1990/wiki/index/list_of_presets/
   
 General windows configuration changes:  
 uninstall skype, candy crush, and the other game  
