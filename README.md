@@ -17,6 +17,7 @@ OBS (requires C++ redistribute stuff)
 drawing tablet drivers  
 discord (?)  
 Equalizer APO + Peace GUI. Headphone presets: https://www.reddit.com/r/oratory1990/wiki/index/list_of_presets/
+adobe reader: edit -> preferences -> accessibility -> page background: rgb-242,238,222
   
 General windows configuration changes:  
 uninstall skype, candy crush, and the other game  
