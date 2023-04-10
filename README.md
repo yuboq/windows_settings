@@ -1,7 +1,8 @@
 Things to do after fresh windows install
 also a few useful files for peace/equalizer apo
 
-TO install:  
+TO install:
+
 equalizer APO (6xx file in onedrive)  
 M$ office  
 android studio (?)  
@@ -21,4 +22,5 @@ adobe reader: edit -> preferences -> accessibility -> page background: rgb-242,2
   
 General windows configuration changes:  
 uninstall skype, candy crush, and the other game  
-turn off "show recently added programs in start", "recently opened items"  
+turn off "show recently added programs in start", "recently opened items" 
+old context menu: win+ r -> reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
