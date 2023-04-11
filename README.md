@@ -27,3 +27,6 @@ old context menu: win+ r -> reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-3
 display -> brightness -> dropdown -> uncheck "help improve battery"
 Personalization -> transparency effects off
 AMD software -> display -> uncheck vari-bright
+
+Laptop configuration:
+3 finger volume and tab changes
