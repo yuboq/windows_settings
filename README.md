@@ -24,6 +24,8 @@ General windows configuration changes:
 uninstall skype, candy crush, and the other game  
 turn off "show recently added programs in start", "recently opened items"
 change alt-tab behavior to "don't show tabs"
+Mouse speed 9
+Roccat mouse DPI 750
 
 MS edge:
 change default search provider from bing
