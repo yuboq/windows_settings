@@ -38,3 +38,8 @@ AMD software -> display -> uncheck vari-bright
 
 Laptop configuration:
 3 finger volume and tab changes
+
+ublock lite:
+youtube.com###related
+youtube.com##ytd-browse[page-subtype="home"]
+
