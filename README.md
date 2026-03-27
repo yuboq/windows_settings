@@ -43,3 +43,4 @@ ublock lite:
 youtube.com###related
 youtube.com##ytd-browse[page-subtype="home"]
 
+IP address of website using cmd: nslookup
